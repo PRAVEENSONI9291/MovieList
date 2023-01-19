@@ -7,12 +7,18 @@
    border: 1px solid rgb(0,0,0,0.125);
    width: 100%;
 }
-.headline{
-   text-align: center;
+.headline h1{
+   
+   background-color: rgb(0, 0, 0);
+   
 }
 
 .card-grid{
    display: flex;
    width: 100%;
+   
+}
+.headline h1{
+   color: rgb(246, 250, 248);
 }
 
